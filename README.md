@@ -4,10 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-s2breninn/s2breninn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->aprender varias liguagens de programação
-atualmente estou aprendendo  javaScript, HTMl e em breve CSS
-Pretendo colaborar no avanço da tecnologia 
-chegguei através de anúncios , videos no youtube e várias outras formas...
+
+'_' <3
