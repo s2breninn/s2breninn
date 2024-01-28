@@ -1,4 +1,16 @@
-## Olá! Sou Breno Mendes, padawan na programação ;)
+~~~python
+  people = {
+    'name': 'Breno Mendes',
+    'age': 19,
+    'study': [
+        {
+            'faculty': 'IFNMG',
+            'city': 'Teófilo Otoni'
+        },
+        {'course': 'Analysis and Systems Development'}
+    ]
+}
+~~~
 
 <div>
   <a href="https://github.com/s2breninn">
