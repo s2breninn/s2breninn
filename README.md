@@ -7,7 +7,10 @@
             'faculty': 'IFNMG',
             'city': 'Teófilo Otoni'
         },
-        {'course': 'Analysis and Systems Development'}
+        {
+          'course': 'Analysis and Systems Development',
+          'period': 2
+        }
     ]
 }
 ~~~
