@@ -1,7 +1,7 @@
 ~~~python
   people = {
     'name': 'Breno Mendes',
-    'age': 19,
+    'age': 20,
     'study': [
         {
             'faculty': 'IFNMG',
@@ -9,7 +9,7 @@
         },
         {
           'course': 'Analysis and Systems Development',
-          'period': 2
+          'period': 3
         }
     ]
 }
