@@ -15,25 +15,26 @@
 }
 ~~~
 
-<div>
-  <a href="https://github.com/s2breninn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s2breninn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2breninn&layout=compact&langs_count=7&theme=dracula"/>
+<div align='center'>
+  <img  src="https://github-readme-stats.vercel.app/api?username=s2breninn&show_icons=true&theme=transparent&hide_border=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2breninn&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
 </div>
-  
-  <div style="display: inline_bloc.k"> <br> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">       
-  
-  ##
-  
-  <div> 
- <a href="[https://discord.gg/s2breninn#8769](https://www.instagram.com/s2breninn/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/breno-mendes-76820a217/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:b.mendesbernardo2020@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+## Shills & Git Stats
+![duckdb](https://img.shields.io/badge/-duckdb-292D3E?style=flat-square&logo=duckdb&logoColor=white)
+![sql](https://img.shields.io/badge/-sql-292D3E?style=flat-square&logo=sql&logoColor=white)
+![python](https://img.shields.io/badge/-python-292D3E?style=flat-square&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/-javascript-292D3E?style=flat-square&logo=javascript&logoColor=white)
+![nodejs](https://img.shields.io/badge/nodejs-292D3E?style=flat-square&logo=node&logoColor=white)
+![vim](https://img.shields.io/badge/-vim-292D3E?style=flat-square&logo=vim&logoColor=white)
+![git](https://img.shields.io/badge/-git-292D3E?style=flat-square&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/-github-292D3E?style=flat-square&logo=github&logoColor=white)
+![vscode](https://img.shields.io/badge/-vscode-292D3E?style=flat-square&logo=vscode&logoColor=white)
+![linux](https://img.shields.io/badge/-linux-292D3E?style=flat-square&logo=linux&logoColor=white)
+![windows](https://img.shields.io/badge/-windows-292D3E?style=flat-square&logo=windows&logoColor=white)
+
+### Contact
+[![Linkedin](https://img.shields.io/badge/linkedin-292D3E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tifanyanunes/)](https://www.linkedin.com/in/breno-mendes-76820a217/)
+[![Gmail Badge](https://img.shields.io/badge/-email-292D3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pinuyadeveloper@gmail.com)](mailto:b.mendesbernardo2020@gmail.com@gmail.com!)
+
+![Gif](https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif)
